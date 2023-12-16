@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Example'
+project = 'W4111 - Intro. to Databases'
 copyright = 'workshop participant'
 author = 'workshop participant'
 release = '0.1'
